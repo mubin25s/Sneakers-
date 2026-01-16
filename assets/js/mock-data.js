@@ -230,7 +230,7 @@ export const MOCK_PRODUCTS = [
         "price": 45.00,
         "category": "kids",
         "brand": "Juebong",
-        "image": "children/65e75caa45f75151ea76870e-juebong-toddler-shoes-baby-boys-girls.jpg",
+        "image": "assets/images/children/65e75caa45f75151ea76870e-juebong-toddler-shoes-baby-boys-girls.jpg",
         "description": "Ultra-soft and breathable shoes for toddlers, ensuring maximum comfort for small steps."
     },
     {
@@ -239,7 +239,7 @@ export const MOCK_PRODUCTS = [
         "price": 50.00,
         "category": "kids",
         "brand": "SportKids",
-        "image": "children/71oxecAbSIL._AC_UF894,1000_QL80_.jpg",
+        "image": "assets/images/children/71oxecAbSIL._AC_UF894,1000_QL80_.jpg",
         "description": "Lightweight athletic shoes designed for active kids who love to run and play."
     },
     {
@@ -248,7 +248,7 @@ export const MOCK_PRODUCTS = [
         "price": 40.00,
         "category": "kids",
         "brand": "Explore",
-        "image": "children/images.jpeg",
+        "image": "assets/images/children/images.jpeg",
         "description": "Durable and stylish sneakers for every mini explorer."
     },
     {
@@ -257,7 +257,7 @@ export const MOCK_PRODUCTS = [
         "price": 55.00,
         "category": "kids",
         "brand": "Puma",
-        "image": "children/rBVaEmJQeR2ATncAAAEX6dmsUQo415.jpg",
+        "image": "assets/images/children/rBVaEmJQeR2ATncAAAEX6dmsUQo415.jpg",
         "description": "Perfect balance of style and performance for young athletes."
     },
     {
@@ -266,7 +266,7 @@ export const MOCK_PRODUCTS = [
         "price": 75.00,
         "category": "women",
         "brand": "Yoho",
-        "image": "ladies/8dfd1485-1cd7-477e-b68c-55126120078e1750857396778-YOHO-Women-Cruise-Without-Lace-Slip-On-Canvas-Sneaker-Shoe-7-1.webp",
+        "image": "assets/images/ladies/8dfd1485-1cd7-477e-b68c-55126120078e1750857396778-YOHO-Women-Cruise-Without-Lace-Slip-On-Canvas-Sneaker-Shoe-7-1.webp",
         "description": "Stylish slip-on canvas sneakers for ultimate casual comfort."
     },
     {
@@ -275,7 +275,7 @@ export const MOCK_PRODUCTS = [
         "price": 110.00,
         "category": "women",
         "brand": "Elite",
-        "image": "ladies/21-6.jpg",
+        "image": "assets/images/ladies/21-6.jpg",
         "description": "Premium comfort meets high-end fashion in these elegant striders."
     },
     {
@@ -284,7 +284,7 @@ export const MOCK_PRODUCTS = [
         "price": 95.00,
         "category": "women",
         "brand": "Adidas",
-        "image": "ladies/26-2-300x300.webp",
+        "image": "assets/images/ladies/26-2-300x300.webp",
         "description": "Sleek and responsive running shoes tailored for women."
     },
     {
@@ -293,7 +293,7 @@ export const MOCK_PRODUCTS = [
         "price": 85.00,
         "category": "women",
         "brand": "Nike",
-        "image": "ladies/images (1).jpeg",
+        "image": "assets/images/ladies/images (1).jpeg",
         "description": "Effortless movement and sophisticated design for everyday wear."
     },
     {
@@ -302,7 +302,7 @@ export const MOCK_PRODUCTS = [
         "price": 120.00,
         "category": "women",
         "brand": "X-Sport",
-        "image": "ladies/x2VdpYWr_9ab37fdb0395418ea870917723560dc1.jpg",
+        "image": "assets/images/ladies/x2VdpYWr_9ab37fdb0395418ea870917723560dc1.jpg",
         "description": "Performance-driven sneakers for the modern woman on the move."
     },
     {
@@ -363,8 +363,8 @@ export const MOCK_PRODUCTS = [
 
 export const MOCK_CATEGORIES = [
     { "id": "men", "name": "Men's Sector", "image": "assets/images/cat_men.jpg" },
-    { "id": "women", "name": "Women's Sector", "image": "ladies/21-6.jpg" },
-    { "id": "kids", "name": "Kids' Sector", "image": "children/65e75caa45f75151ea76870e-juebong-toddler-shoes-baby-boys-girls.jpg" },
+    { "id": "women", "name": "Women's Sector", "image": "assets/images/ladies/21-6.jpg" },
+    { "id": "kids", "name": "Kids' Sector", "image": "assets/images/children/65e75caa45f75151ea76870e-juebong-toddler-shoes-baby-boys-girls.jpg" },
     { "id": "sports", "name": "Sports", "image": "assets/images/cat_sports.jpg" }
 ];
 
